@@ -1,5 +1,6 @@
 # e-Commerce
-This is a modern e-commerce web application .The project showcases a fully functional online store built with modern web development technologies.
+This is a modern e-commerce web application hosted at https://jyotijoshi-ecommerce.netlify.app/. The project showcases a fully functional online store built with modern web development technologies.
+
 Features:
 User-Friendly Interface: A responsive and intuitive UI for seamless navigation across devices.
 Product Listing: Displays a catalog of products with detailed descriptions and images.
@@ -11,6 +12,8 @@ Frontend: [e.g., React.js, Vue.js, or similar framework]
 Backend: [Specify backend framework if applicable, e.g., Node.js, Firebase]
 Hosting: Deployed on Netlify for fast and reliable performance.
 Styling: [e.g., Tailwind CSS, Bootstrap, or custom CSS]
+How to Access:
+Visit the live project here:https://jyotijoshi-ecommerce.netlify.app/
 
 
 
